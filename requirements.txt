@@ -1,0 +1,10 @@
+kagglehub
+pandas
+transformers
+torch
+torchvision
+scikit-learn
+
+# optional
+matplotlib
+seaborn
