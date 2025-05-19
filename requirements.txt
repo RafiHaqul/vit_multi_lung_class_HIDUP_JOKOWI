@@ -1,4 +1,7 @@
-kagglehub
+ipython
+ipykernel
+
+datasets
 pandas
 transformers
 torch
