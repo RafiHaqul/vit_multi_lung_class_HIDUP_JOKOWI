@@ -1,7 +1,7 @@
 ipython
 ipykernel
 
-datasets
+# datasets
 pandas
 transformers
 torch
