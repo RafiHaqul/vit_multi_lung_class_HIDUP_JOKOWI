@@ -1,3 +1,9 @@
-datasets/
+.github/
 .venv/
-trash.py
+
+CheXpert-v1.0-small/
+chexpert-vit-model/
+lung_dataset/
+outlier_image/
+
+lung_dataset.zip
