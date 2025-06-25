@@ -1,13 +1,14 @@
 ipython
 ipykernel
 
-# datasets
 pandas
 transformers
+transformers[torch]
 torch
 torchvision
 scikit-learn
+matplotlib
+opencv-python-headless
 
 # optional
-matplotlib
 seaborn
