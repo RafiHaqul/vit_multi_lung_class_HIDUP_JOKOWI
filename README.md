@@ -19,11 +19,11 @@ Jalankan training:
 - [x] Tambahin `ratio` pada `transform`
 - [x] Tambahin `ploting` akurasi dan loss real time saat training
 - [x] Tanbahin `scheduler learning rate`
-- [x] Potong jumlah baris dataset
-    - apakah data 'uncertain' perlu dimasukan?
-    - apakah `uncertain` cenderung ke positif atau negatif
-    - apakah data imbalance?
-    - apakah ada gambar rusak (outlayer)
-- [ ] Run train di `50 epoch`
-
+- [x] Run train di `50 epoch`
+- [x] tangani uncertain = -1 jadi 1
+- [x] hapus outlier gambar
+- [x] hapus label yang memiliki sedikit data
+- [ ] Tambahkan SMOTE
+- [ ] Buat grafik weight decay 
+ 
 # HIDUP JOKOWI! ✊
