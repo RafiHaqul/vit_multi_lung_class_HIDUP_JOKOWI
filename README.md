@@ -1,4 +1,4 @@
-# Project Skripsi 💢
+# Project Skripsi
 
 Dataset
 ```bash
@@ -10,9 +10,9 @@ rm chexpert.zip  # Hapus file zip
 Ubah bentuk pohon direktori datset yang sudah didownload ke bentuk yang simpel dengan menjalankan `dataset.ipynb`
 
 Jalankan training:
-- `1.ipynb`, code backup 1 (ignore)
-- `2.ipynb`, code backup 2 (ignore)
-- `2 copy.ipynb`, current code (use)
+- `train_v2.ipynb`, code backup 1 (ignore)
+- `train_v3.ipynb`, code backup 2 (ignore)
+- `train_v3.ipynb`, current code (use)
 
 **Task:**
 
@@ -23,7 +23,4 @@ Jalankan training:
 - [x] tangani uncertain = -1 jadi 1
 - [x] hapus outlier gambar
 - [x] hapus label yang memiliki sedikit data
-- [ ] Tambahkan SMOTE
-- [ ] Buat grafik weight decay 
- 
-# HIDUP JOKOWI! ✊
+- [ ] Tambahkan atgumrnted balancing

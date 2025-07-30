@@ -5,5 +5,8 @@ CheXpert-v1.0-small/
 chexpert-vit-model/
 lung_dataset/
 outlier_image/
+document/
+2.ipynb
+sample.ipynb
 
 lung_dataset.zip
