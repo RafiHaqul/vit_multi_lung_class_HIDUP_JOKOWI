@@ -2,7 +2,6 @@ ipython
 ipykernel
 
 pandas
-transformers
 transformers[torch]
 torch
 torchvision
