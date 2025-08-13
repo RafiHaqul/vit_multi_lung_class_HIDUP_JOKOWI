@@ -11,3 +11,5 @@ opencv-python-headless
 
 # optional
 seaborn
+datasets
+pickleshare
